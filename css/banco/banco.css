@@ -1,0 +1,19 @@
+.pre-exito {
+  font-size: 16px;
+  color: #007D07;
+  background-color: #95FF95;
+}
+.pre-no-exito {
+  font-size: 16px;
+  color: #FF0000;
+  background-color: #FFCECE;
+}
+header{
+background-color: #FFFFFF;
+color: #2C3E50;
+border: 2px;
+}
+section {
+    padding: 0px 0;
+    padding-bottom: 50px;
+}
